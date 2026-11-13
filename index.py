@@ -7,6 +7,8 @@ from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Input, Embedding, LSTM, Dense
 
+
+
 faqs = """About the Program
 What is the course fee for  Data Science Mentorship Program (DSMP 2023)
 The course follows a monthly subscription model where you have to make monthly payments of Rs 799/month.
